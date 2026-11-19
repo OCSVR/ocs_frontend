@@ -62,5 +62,6 @@ systems/messages:dev
 systems/ui-builder
 systems/lesson-feedback:dev
 systems/test-project
+systems/vr-training
 
 # === FLAT STRUCTURE (legacy/uncategorized) ===
